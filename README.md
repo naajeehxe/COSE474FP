@@ -1,0 +1,2 @@
+# COSE474FP
+COSE474 Final Project : CLIP
